@@ -5,7 +5,7 @@ https://kanjimaster-button.com/
 15秒で漢字マスターになれるボタン
 
 ## 使用技術
-<br>-HTML
+-HTML
 <br>-CSS(Sass)
 <br>-JavaScript
 
