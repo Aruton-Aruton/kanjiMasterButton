@@ -4,9 +4,9 @@
 15秒で漢字マスターになれるボタン
 
 ## 使用技術
--HTML
--CSS(Sass)
--JavaScript
+<br>-HTML
+<br>-CSS(Sass)
+<br>-JavaScript
 
 ## 開発理由
 学生時代漢字検定準一級を習得したため、その知識を生かしたサービスを提供できないかと考えたから。
